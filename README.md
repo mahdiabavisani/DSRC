@@ -1,6 +1,5 @@
 # Deep sparse representation-based classification
-[Overview](https://github.com/mahdiabavisani/DSRC/files/3164958/diagram_1.pdf)
-
+![overview](https://user-images.githubusercontent.com/18729506/57503787-b905dd00-72bf-11e9-968f-a66010572b26.png)
 
 ## Overview
 This repository contains the implementation of the paper "Deep sparse representation-based classification" by Mahdi Abavisani and Vishal M. Patel. The paper was published in IEEE Signal Processing Letters.
