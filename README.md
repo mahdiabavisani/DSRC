@@ -1,6 +1,5 @@
 # Deep sparse representation-based classification
-
-![overview](./figs/diagram_1.pdf)
+[Overview](https://github.com/mahdiabavisani/DSRC/files/3164958/diagram_1.pdf)
 
 
 ## Overview
