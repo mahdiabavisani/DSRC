@@ -24,7 +24,7 @@ ISSN={1070-9908},
 month={June},}
 </code></pre>
 
-Mahdi Abavisani and Vishal M. Patel, "Deep Sparse Representation-Based Classification," IEEE Signal Processing Letters,pp 948-952, 2019.
+M. Abavisani and V. M. Patel, "Deep Sparse Representation-Based Classification," in IEEE Signal Processing Letters, vol. 26, no. 6, pp. 948-952, June 2019.
 
 
 ## Setup:
